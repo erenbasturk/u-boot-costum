@@ -1,0 +1,10 @@
+pci.c:459:12:pci_cfg_write	8	static
+pci.c:63:22:pci_read_config	16	static
+pci.c:45:12:pci_field_width	0	static
+pci.c:84:13:pci_show_regs	40	static
+pci.c:480:12:pci_cfg_modify.isra.1	32	static
+pci.c:192:6:pci_header_show	24	static
+pci.c:228:6:pciinfo_header	8	static
+pci.c:294:6:pci_header_show_brief	32	static
+pci.c:319:6:pciinfo	48	static
+pci.c:546:12:do_pci	72	static

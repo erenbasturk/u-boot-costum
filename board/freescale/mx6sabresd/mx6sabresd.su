@@ -1,0 +1,16 @@
+mx6sabresd.c:363:13:enable_lvds	0	static
+mx6sabresd.c:183:13:enable_rgb	8	static
+mx6sabresd.c:357:13:do_enable_hdmi	0	static
+mx6sabresd.c:60:5:dram_init	8	static
+mx6sabresd.c:238:5:board_mmc_getcd	8	static
+mx6sabresd.c:258:5:board_mmc_init	16	static
+mx6sabresd.c:496:5:overwrite_console	0	static
+mx6sabresd.c:501:5:board_eth_init	8	static
+mx6sabresd.c:537:5:board_ehci_hcd_init	0	static
+mx6sabresd.c:552:5:board_ehci_power	8	static
+mx6sabresd.c:572:5:board_early_init_f	8	static
+mx6sabresd.c:582:5:board_init	8	static
+mx6sabresd.c:599:5:power_init_board	16	static
+mx6sabresd.c:629:5:board_spi_cs_gpio	0	static
+mx6sabresd.c:646:5:board_late_init	8	static
+mx6sabresd.c:666:5:checkboard	8	static

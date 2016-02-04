@@ -1,0 +1,12 @@
+pcie_imx.c:311:17:get_bus_address	4	static
+pcie_imx.c:335:12:imx_pcie_addr_valid	0	static
+pcie_imx.c:96:12:pcie_phy_poll_ack.constprop	16	static
+pcie_imx.c:172:12:pcie_phy_write.part.3.constprop	16	static
+pcie_imx.c:116:12:pcie_phy_wait_ack.constprop	16	static
+pcie_imx.c:142:12:pcie_phy_read.constprop	16	static
+pcie_imx.c:375:12:imx_pcie_read_config	16	static
+pcie_imx.c:404:12:imx_pcie_write_config	24	static
+pcie_imx.c:484:12:imx6_pcie_toggle_power	8	static
+pcie_imx.c:495:12:imx6_pcie_toggle_reset	8	static
+pcie_imx.c:612:6:imx_pcie_init	32	static
+pcie_imx.c:656:6:pci_init_board	0	static

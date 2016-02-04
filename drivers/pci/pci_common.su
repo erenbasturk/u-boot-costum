@@ -1,0 +1,12 @@
+pci_common.c:19:13:pci_class_str	0	static
+pci_common.c:82:12:pci_skip_dev	0	static
+pci_common.c:122:6:pci_write_bar32	0	static
+pci_common.c:131:5:pci_read_bar32	16	static
+pci_common.c:144:5:__pci_hose_bus_to_phys	20	static
+pci_common.c:172:13:pci_hose_bus_to_phys	40	static
+pci_common.c:104:7:pci_map_bar	24	static
+pci_common.c:208:5:__pci_hose_phys_to_bus	20	static
+pci_common.c:239:12:pci_hose_phys_to_bus	40	static
+pci_common.c:275:11:pci_find_device	72	static
+pci_common.c:285:11:pci_hose_find_devices	40	static
+pci_common.c:326:11:pci_find_class	48	static

@@ -1,0 +1,7 @@
+dfu_sf.c:15:13:dfu_get_medium_size_sf	0	static
+dfu_sf.c:20:12:dfu_read_medium_sf	0	static
+dfu_sf.c:51:12:dfu_flush_medium_sf	0	static
+dfu_sf.c:56:21:dfu_polltimeout_sf	0	static
+dfu_sf.c:61:13:dfu_free_entity_sf	0	static
+dfu_sf.c:32:12:dfu_write_medium_sf	32	static
+dfu_sf.c:115:5:dfu_fill_entity_sf	56	static

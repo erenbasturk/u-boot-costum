@@ -1,0 +1,4 @@
+pci_auto_old.c:29:6:pciauto_setup_device	56	static
+pci_auto_old.c:175:6:pciauto_prescan_setup_bridge	40	static
+pci_auto_old.c:256:6:pciauto_postscan_setup_bridge	32	static
+pci_auto_old.c:320:5:pciauto_config_device	48	static

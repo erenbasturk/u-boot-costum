@@ -1,0 +1,13 @@
+spi_flash.c:679:12:stm_is_locked_sr	12	static
+spi_flash.c:434:5:spi_flash_read_common	32	static
+spi_flash.c:32:12:read_sr	24	static
+spi_flash.c:697:5:stm_is_locked	24	static
+spi_flash.c:284:5:spi_flash_write_common	48	static
+spi_flash.c:325:5:spi_flash_cmd_erase_ops	48	static
+spi_flash.c:376:5:spi_flash_cmd_write_ops	56	static
+spi_flash.c:61:12:write_sr	32	static
+spi_flash.c:732:5:stm_lock	32	static
+spi_flash.c:786:5:stm_unlock	32	static
+spi_flash.c:457:13:spi_flash_copy_mmap	0	static
+spi_flash.c:462:5:spi_flash_cmd_read_ops	48	static
+spi_flash.c:964:5:spi_flash_scan	48	static

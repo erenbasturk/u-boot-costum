@@ -1,0 +1,1 @@
+cmd_examples/standalone/hello_world := arm-linux-ld.bfd   -g -Ttext 0xc100000 -o examples/standalone/hello_world -e hello_world examples/standalone/hello_world.o examples/standalone/libstubs.o -L /home/innoted/yocto/cross_tools/sabredl/usr/lib/gcc/arm-buildroot-linux-uclibcgnueabi/4.9.3 -lgcc

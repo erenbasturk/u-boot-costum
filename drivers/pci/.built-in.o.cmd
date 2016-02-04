@@ -1,0 +1,1 @@
+cmd_drivers/pci/built-in.o :=  arm-linux-ld.bfd     -r -o drivers/pci/built-in.o drivers/pci/pci.o drivers/pci/pci_auto_old.o drivers/pci/pci_auto_common.o drivers/pci/pci_common.o drivers/pci/pcie_imx.o 

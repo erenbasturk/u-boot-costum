@@ -1,0 +1,8 @@
+fsl_esdhc.c:622:12:esdhc_getcd	16	static
+fsl_esdhc.c:557:13:esdhc_set_ios	32	static
+fsl_esdhc.c:581:12:esdhc_init	16	static
+fsl_esdhc.c:282:13:check_and_invalidate_dcache_range.isra.0	16	static
+fsl_esdhc.c:310:1:esdhc_send_cmd	32	static
+fsl_esdhc.c:659:5:fsl_esdhc_initialize	16	static
+fsl_esdhc.c:745:5:fsl_esdhc_mmc_init	8	static
+fsl_esdhc.c:795:6:fdt_fixup_esdhc	24	static
